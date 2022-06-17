@@ -1,0 +1,13 @@
+Abstract Class
+--------------
+
+
+As we know that abstraction refers to hiding the internal implementation of the feature and only showing the functionality to the users. i.e. what it works (showing), how it works (hiding). Both abstract class and interface are used for abstraction,
+henceforth Interface and Abstract Class are required prerequisites 
+
+Abstract class is nothing special to look at when you want to differentiate with a regular class. But it has got some methods which are unimplemented, or only declared, not defined. In that case, all those methods and the class itself are renamed with the “abstract” keyword.
+
+An abstract class can have one or multiple number of unimplemented methods.
+
+As an abstract class is not proper, or does not have ideally defined methods compared to a regular class, so abstract classes cannot be instantiated, that means we cannot create any direct objects of abstract classes.
+
